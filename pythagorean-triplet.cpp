@@ -1,6 +1,6 @@
 // we need to find the array elements such that a^2 + b^2 = c^2;
 
-// we can do this in 0(n^2) in time easily by first sorting the array..
+// we can do this in 0(n^2) easily by first sorting the array..
 //then squairng all terms..  after that we need to take all elements from starting and check for pairs 
 // whether they add upto last element c.. which in these cases will be the last element of array.
 
